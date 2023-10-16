@@ -2,4 +2,4 @@ python
 pandas 
 streamlit 
 numpy
-sklearn==1.2.2
+sklearn
